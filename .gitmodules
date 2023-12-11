@@ -1,0 +1,3 @@
+[submodule "cs144/minnow"]
+	path = cs144/minnow
+	url = https://github.com/CS144/minnow
