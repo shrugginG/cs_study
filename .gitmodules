@@ -1,6 +1,6 @@
 [submodule "cs144/minnow"]
 	path = cs144/minnow
-	url = https://github.com/CS144/minnow
+	url = https://github.com/shrugginG/minnow.git
 [submodule "cs144/sponge"]
 	path = cs144/sponge
 	url = https://github.com/shrugginG/sponge.git
